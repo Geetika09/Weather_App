@@ -1,0 +1,24 @@
+Cloud_pct
+Feels_like
+Humidity
+Max_temp
+Min_temp
+Sunrise
+Sunset
+Temp
+Wind_degrees
+Wind_speed
+
+
+
+
+  cloud_pct = responsive.cloud_pct 
+  temp = responsive.temp 
+  feels_like = responsive.feels_like 
+  humidity = responsive.humidity 
+  min_temp = responsive.min_temp 
+  max_temp = responsive.max_temp 
+  wind_speed = responsive.wind_speed 
+  wind_degrees = responsive.wind_degrees 
+  sunrise = responsive.sunrise 
+  sunset = responsive.sunset 
